@@ -147,7 +147,8 @@ MOV [0060h],ax;
 ret
 ```
 ## Output
-![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/314ac6ab-defd-4da1-9438-9b60513cb89d)
+![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/5be4be55-ee6e-496c-8835-bc6e06406ea3)
+
 
 ## NOT
 ```python
@@ -159,7 +160,8 @@ MOV [0060h+04],ax;
 ret
 ```
 ## Output
-![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/ff6d3d28-4763-4a03-a9f5-43769d8e963c)
+![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/5da5b6c2-cf62-46df-8c4b-fa99792ddedb)
+
 
 ## XOR
 ```python
@@ -171,7 +173,8 @@ MOV [0050h+03],ax;
 ret
 ```
 ## Output
-![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/526bfa95-ba7c-46f0-aeb8-0318f9582993)
+![image](https://github.com/Thirisha-s/EXPERIMENT--01-ALP-FOR-8086/assets/120380280/3d3fceaf-0b87-4be8-9e4e-1cc3efdf9043)
+
 
 
 ## Result :
