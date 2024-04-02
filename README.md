@@ -84,7 +84,7 @@ MOV [6379h],al;
 ret
 ```
 ## Output  
- ![OUTPUT](Output1-pmc1.png)
+![OUTPUT](Output1-pmc1.png)
  
 ## Subtraction 
 ```python
@@ -108,7 +108,7 @@ MOV [6063h],bl;
 ret
 ```
  ## Output  
-![OUTPUT](Output3-pmc1.png)
+ ![OUTPUT](Output3-pmc1.png)
 
 ## Division
 ```python
